@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-max-by",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This method is like _.max except that it accepts iteratee which is invoked for each element in array to generate the criterion by which the value is ranked.",
   "homepage": "https://js.work",
   "files": [
@@ -52,5 +52,10 @@
     "src/**/*.{js,jsx}": [
       "npm run pretty"
     ]
-  }
+  },
+  "keywords": [
+    "max-by",
+    "max",
+    "next"
+  ]
 }
